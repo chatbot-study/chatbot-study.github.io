@@ -8,4 +8,4 @@ The links below lead to anonymized versions of artifacts associated with our cha
 
 [Prototype images](https://github.com/chatbot-study/chatbot/tree/main/prototype-images)
 
-[Full text of HIPAA Authorizations and other HIPAA information documents] (https://github.com/chatbot-study/chatbot/tree/main/hipaa-docs)
+[Full text of HIPAA Authorizations and other HIPAA information documents](https://github.com/chatbot-study/chatbot/tree/main/hipaa-docs)
